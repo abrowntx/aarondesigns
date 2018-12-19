@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Delius', cursive;
+    font-size: 15px;
+}
+
+.logoWrapper{
+    width: 1000px;
+    height: 175px;
+    background: #f7ede1;
+    margin:0 auto;
+    margin-top:50px;
+    outline:none;
+    box-shadow: 7px 5px 5px -5px rgba(46, 43, 39, 0.3);
+    border-radius: 500px 15px 590px 5px/15px 500px 15px;
+    border: solid 3px rgb(150, 146, 134);
+}
+.logoText{
+    position: relative;
+    margin: 0 auto;
+    width:800px;
+    font-size: 125px;
+    font-family: 'Amatic SC', cursive;
+    padding-top: 15px;
+    color:rgb(90, 88, 77);
+}
+
+.contentWrapper{
+    width: 1000px;
+    height: calc(100vh - 565px);
+    background-color: #f7f1e7;
+    margin:0 auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    outline:none;
+    box-shadow: 7px 5px 5px -5px rgba(46, 43, 39, 0.3);
+    border-radius: 1500px 15px 1500px 15px/15px 1500px 15px;
+    border: solid 3px rgb(150, 146, 134);
+}
