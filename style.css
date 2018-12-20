@@ -3,6 +3,7 @@ body{
     padding: 0px;
     font-family: 'Delius', cursive;
     font-size: 15px;
+    background-image: url("img/paper.jpg");
 }
 
 .logoWrapper{
@@ -14,7 +15,8 @@ body{
     outline:none;
     box-shadow: 7px 5px 5px -5px rgba(46, 43, 39, 0.3);
     border-radius: 500px 15px 590px 5px/15px 500px 15px;
-    border: solid 3px rgb(150, 146, 134);
+    border: solid 3px rgb(68, 67, 59);
+    background-image: url("img/paper2.jpg");
 }
 .logoText{
     position: relative;
@@ -23,7 +25,7 @@ body{
     font-size: 125px;
     font-family: 'Amatic SC', cursive;
     padding-top: 15px;
-    color:rgb(90, 88, 77);
+    color:rgb(68, 67, 59);
 }
 
 .contentWrapper{
@@ -36,5 +38,6 @@ body{
     outline:none;
     box-shadow: 7px 5px 5px -5px rgba(46, 43, 39, 0.3);
     border-radius: 1500px 15px 1500px 15px/15px 1500px 15px;
-    border: solid 3px rgb(150, 146, 134);
+    border: solid 3px rgb(68, 67, 59);
+    background-image: url("img/paper2.jpg");
 }
